@@ -1,0 +1,7 @@
+fibonacci series->till user limit
+0 1 1 2 3 5 8............
+factorial of a number
+prime or not
+factorial generator->user limit
+prime number generator--->user limit
+tables--------->user which table,limit
